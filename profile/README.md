@@ -1,12 +1,5 @@
-## Hi there 👋
 
-<!--
+# No Code, C-API & EEC
 
-**Here are some ideas to get you started:**
+As a loT software development initiative, smarter and more by creating solutions that pave the way for a connected future to be at the forefront of the technological revolution. To solve problems arising in digitization processes state-of-the-art solutions powered by artificial intelligence transformation thanks to the No-Code loT platform understandable and suitable for mobilization. It combines many sensing techniques in the industry and facilitating data collection that we will offer modularly for digital transformation with our universal integration device we aim to create a big ecosystem.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
